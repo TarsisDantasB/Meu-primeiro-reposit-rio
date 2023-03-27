@@ -1,2 +1,2 @@
-# Meu-primeiro-reposit-rio
+# Meu-primeiro-repositório
 Desafio de projeto sobre GIT/GITHub
